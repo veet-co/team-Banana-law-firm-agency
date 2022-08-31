@@ -9,6 +9,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding: 50px;
 }
   .amaroq .left-side{
   width: 25%;
